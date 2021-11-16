@@ -1,0 +1,12 @@
+.genre {
+  margin-right: 4px;
+  border: 2px solid white;
+  border-radius: 50px;
+  text-decoration: none;
+  background-color: transparent;
+  color: white;
+
+  &:hover {
+    color: white;
+  }
+}
