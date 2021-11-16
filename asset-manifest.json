@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie-app/static/css/main.a35e2b8e.chunk.css",
-    "main.js": "/movie-app/static/js/main.09834f1c.chunk.js",
-    "main.js.map": "/movie-app/static/js/main.09834f1c.chunk.js.map",
-    "runtime-main.js": "/movie-app/static/js/runtime-main.a5ad1677.js",
-    "runtime-main.js.map": "/movie-app/static/js/runtime-main.a5ad1677.js.map",
-    "static/js/2.cfae3b7a.chunk.js": "/movie-app/static/js/2.cfae3b7a.chunk.js",
-    "static/js/2.cfae3b7a.chunk.js.map": "/movie-app/static/js/2.cfae3b7a.chunk.js.map",
-    "index.html": "/movie-app/index.html",
-    "static/css/main.a35e2b8e.chunk.css.map": "/movie-app/static/css/main.a35e2b8e.chunk.css.map",
-    "static/js/2.cfae3b7a.chunk.js.LICENSE.txt": "/movie-app/static/js/2.cfae3b7a.chunk.js.LICENSE.txt"
+    "main.css": "/imdb-app/static/css/main.a35e2b8e.chunk.css",
+    "main.js": "/imdb-app/static/js/main.09834f1c.chunk.js",
+    "main.js.map": "/imdb-app/static/js/main.09834f1c.chunk.js.map",
+    "runtime-main.js": "/imdb-app/static/js/runtime-main.9f94652d.js",
+    "runtime-main.js.map": "/imdb-app/static/js/runtime-main.9f94652d.js.map",
+    "static/js/2.cfae3b7a.chunk.js": "/imdb-app/static/js/2.cfae3b7a.chunk.js",
+    "static/js/2.cfae3b7a.chunk.js.map": "/imdb-app/static/js/2.cfae3b7a.chunk.js.map",
+    "index.html": "/imdb-app/index.html",
+    "static/css/main.a35e2b8e.chunk.css.map": "/imdb-app/static/css/main.a35e2b8e.chunk.css.map",
+    "static/js/2.cfae3b7a.chunk.js.LICENSE.txt": "/imdb-app/static/js/2.cfae3b7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5ad1677.js",
+    "static/js/runtime-main.9f94652d.js",
     "static/js/2.cfae3b7a.chunk.js",
     "static/css/main.a35e2b8e.chunk.css",
     "static/js/main.09834f1c.chunk.js"
