@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/imdb-app/static/css/main.a35e2b8e.chunk.css",
-    "main.js": "/imdb-app/static/js/main.d3a34573.chunk.js",
-    "main.js.map": "/imdb-app/static/js/main.d3a34573.chunk.js.map",
+    "main.js": "/imdb-app/static/js/main.6315ad93.chunk.js",
+    "main.js.map": "/imdb-app/static/js/main.6315ad93.chunk.js.map",
     "runtime-main.js": "/imdb-app/static/js/runtime-main.9f94652d.js",
     "runtime-main.js.map": "/imdb-app/static/js/runtime-main.9f94652d.js.map",
-    "static/js/2.cfae3b7a.chunk.js": "/imdb-app/static/js/2.cfae3b7a.chunk.js",
-    "static/js/2.cfae3b7a.chunk.js.map": "/imdb-app/static/js/2.cfae3b7a.chunk.js.map",
+    "static/js/2.96122a28.chunk.js": "/imdb-app/static/js/2.96122a28.chunk.js",
+    "static/js/2.96122a28.chunk.js.map": "/imdb-app/static/js/2.96122a28.chunk.js.map",
     "index.html": "/imdb-app/index.html",
     "static/css/main.a35e2b8e.chunk.css.map": "/imdb-app/static/css/main.a35e2b8e.chunk.css.map",
-    "static/js/2.cfae3b7a.chunk.js.LICENSE.txt": "/imdb-app/static/js/2.cfae3b7a.chunk.js.LICENSE.txt"
+    "static/js/2.96122a28.chunk.js.LICENSE.txt": "/imdb-app/static/js/2.96122a28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9f94652d.js",
-    "static/js/2.cfae3b7a.chunk.js",
+    "static/js/2.96122a28.chunk.js",
     "static/css/main.a35e2b8e.chunk.css",
-    "static/js/main.d3a34573.chunk.js"
+    "static/js/main.6315ad93.chunk.js"
   ]
 }
