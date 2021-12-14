@@ -46,23 +46,22 @@ const Home = () => {
   }
 
   useEffect(() => {
-    window.addEventListener('scroll', controlScrollBottom);
     fetchMovies(true);
+  }, []);
+
+  useEffect(() => {
+    window.addEventListener('scroll', controlScrollBottom);
 
     return () => {
       window.removeEventListener('scroll', controlScrollBottom);
     };
-  }, []);
+  }, [nextUrl]);
 
   useEffect(() => {
     if(searchText === '' || (searchText && searchText.length > 2)) {
       fetchMovies(true);
     }
   }, [searchText]);
-
-  // useEffect(() => {
-  //   console.log('next', nextUrl);
-  // }, [nextUrl]);
 
   const fetchMovies = (resetMovies=false) => {
     if(!resetMovies && !nextUrl) {
@@ -169,8 +168,6 @@ const Home = () => {
             </div>
           </div>
         </div>
-
-        <button onClick={() => fetchMovies()}>Load more</button>
       </div>
   );
 }
