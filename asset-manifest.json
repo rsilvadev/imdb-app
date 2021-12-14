@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/imdb-app/static/css/main.a35e2b8e.chunk.css",
-    "main.js": "/imdb-app/static/js/main.4ebbd483.chunk.js",
-    "main.js.map": "/imdb-app/static/js/main.4ebbd483.chunk.js.map",
+    "main.js": "/imdb-app/static/js/main.d4abb50a.chunk.js",
+    "main.js.map": "/imdb-app/static/js/main.d4abb50a.chunk.js.map",
     "runtime-main.js": "/imdb-app/static/js/runtime-main.9f94652d.js",
     "runtime-main.js.map": "/imdb-app/static/js/runtime-main.9f94652d.js.map",
     "static/js/2.c90a31f0.chunk.js": "/imdb-app/static/js/2.c90a31f0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9f94652d.js",
     "static/js/2.c90a31f0.chunk.js",
     "static/css/main.a35e2b8e.chunk.css",
-    "static/js/main.4ebbd483.chunk.js"
+    "static/js/main.d4abb50a.chunk.js"
   ]
 }
