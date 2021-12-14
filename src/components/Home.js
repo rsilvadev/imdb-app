@@ -40,7 +40,6 @@ const Home = () => {
     }
 
     if(window.innerHeight + document.documentElement.scrollTop >= document.documentElement.offsetHeight) {
-      console.log('next', nextUrl);
       fetchMovies();
     }
   }
